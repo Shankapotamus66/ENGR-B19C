@@ -1,0 +1,34 @@
+{user}
+ENGR B19C
+Apr 5, 2018
+
+Constants for variables used
+Denisty:                1.94 slug/ft^3
+Gravity:                32.2 ft/sec^2
+Conversion factor:      1ft^2/144in^2
+
+Minimum y value: 43.3806
+Maximum y value: 86.7611
+                      Pressure
++---------------------------------------------------->
+|  *                                                  
+|     *                                               
+|       *                                             
+|          *                                          
+|            *                                        
+|               *                                     
+|                  *                                  
+|                    *                                
+|                       *                             
+|                         *                           
+|                            *                        
+|                               *                     
+|                                 *                   
+|                                    *                
+|                                      *              
+|                                         *           
+|                                            *        
+|                                              *      
+|                                                 *   
+|                                                   * 
+|                                                     
